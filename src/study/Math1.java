@@ -1,4 +1,4 @@
-package study.math;
+package study;
 
 public class Math1 {
 	
